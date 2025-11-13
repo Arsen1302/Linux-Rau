@@ -1,0 +1,33 @@
+# ---- Build & binary files ----
+cmake-build-debug/
+cmake-build-release/
+build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.bin
+
+# ---- CLion / JetBrains IDE ----
+.idea/
+*.iml
+
+# ---- OS specific ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs and temporary files ----
+*.log
+*.tmp
+*.swp
+
+# ---- Backup files ----
+*~
+*.bak
